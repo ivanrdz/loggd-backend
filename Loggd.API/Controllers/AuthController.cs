@@ -29,12 +29,6 @@ public class AuthController(AuthService authService) : ControllerBase
         [FromServices] AppDbContext db,
         [FromServices] JwtService jwtService)
     {
-        // Solo funciona en desarrollo
-        if (!HttpContext.RequestServices
-                .GetRequiredService<IWebHostEnvironment>()
-                .IsDevelopment())
-            return NotFound();
-
         var user = await db.Users.FirstOrDefaultAsync(u => u.Email == "dev@loggd.test");
 
         if (user is null)
