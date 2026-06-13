@@ -1,0 +1,11 @@
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\bin\Debug\net9.0\Loggd.Domain.deps.json
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\bin\Debug\net9.0\Loggd.Domain.dll
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\bin\Debug\net9.0\Loggd.Domain.pdb
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\obj\Debug\net9.0\Loggd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\obj\Debug\net9.0\Loggd.Domain.AssemblyInfoInputs.cache
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\obj\Debug\net9.0\Loggd.Domain.AssemblyInfo.cs
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\obj\Debug\net9.0\Loggd.Domain.csproj.CoreCompileInputs.cache
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\obj\Debug\net9.0\Loggd.Domain.dll
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\obj\Debug\net9.0\refint\Loggd.Domain.dll
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\obj\Debug\net9.0\Loggd.Domain.pdb
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\obj\Debug\net9.0\ref\Loggd.Domain.dll

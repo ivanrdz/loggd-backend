@@ -1,0 +1,6 @@
+@Loggd.API_HostAddress = http://localhost:5173
+
+GET {{Loggd.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

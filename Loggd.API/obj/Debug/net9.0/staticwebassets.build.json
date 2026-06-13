@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZlvJ2VGaR+Ta4rmlS+ILN4clpBdsLyeKqwhmlUMRolc=",
+  "Source": "Loggd.API",
+  "BasePath": "_content/Loggd.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

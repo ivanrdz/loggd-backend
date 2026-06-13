@@ -1,0 +1,15 @@
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\bin\Debug\net9.0\Loggd.Application.deps.json
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\bin\Debug\net9.0\Loggd.Application.dll
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\bin\Debug\net9.0\Loggd.Application.pdb
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\bin\Debug\net9.0\Loggd.Domain.dll
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\bin\Debug\net9.0\Loggd.Domain.pdb
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\Loggd.Application.csproj.AssemblyReference.cache
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\Loggd.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\Loggd.Application.AssemblyInfoInputs.cache
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\Loggd.Application.AssemblyInfo.cs
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\Loggd.Application.csproj.CoreCompileInputs.cache
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\Loggd.Ap.922D8465.Up2Date
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\Loggd.Application.dll
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\refint\Loggd.Application.dll
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\Loggd.Application.pdb
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\ref\Loggd.Application.dll
