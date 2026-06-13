@@ -50,7 +50,8 @@ builder.Services.AddCors(options =>
     {
         policy.WithOrigins(
                 "http://localhost:4200",
-                "https://loggd.vercel.app"
+                "https://loggd.vercel.app",
+                "https://loggd-web.vercel.app"
               )
               .AllowAnyHeader()
               .AllowAnyMethod();
