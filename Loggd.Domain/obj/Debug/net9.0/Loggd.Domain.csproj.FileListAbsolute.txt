@@ -9,3 +9,4 @@ C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\obj\Debug\net9.0\Loggd.Dom
 C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\obj\Debug\net9.0\refint\Loggd.Domain.dll
 C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\obj\Debug\net9.0\Loggd.Domain.pdb
 C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\obj\Debug\net9.0\ref\Loggd.Domain.dll
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Domain\obj\Debug\net9.0\Loggd.Domain.sourcelink.json

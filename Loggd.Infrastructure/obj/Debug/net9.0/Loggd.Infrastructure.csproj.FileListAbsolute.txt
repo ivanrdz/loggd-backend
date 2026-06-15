@@ -15,3 +15,4 @@ C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Infrastructure\obj\Debug\net9.0\L
 C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Infrastructure\obj\Debug\net9.0\refint\Loggd.Infrastructure.dll
 C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Infrastructure\obj\Debug\net9.0\Loggd.Infrastructure.pdb
 C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Infrastructure\obj\Debug\net9.0\ref\Loggd.Infrastructure.dll
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Infrastructure\obj\Debug\net9.0\Loggd.Infrastructure.sourcelink.json

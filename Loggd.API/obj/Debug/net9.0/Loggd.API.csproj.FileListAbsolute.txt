@@ -142,3 +142,4 @@ C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.API\obj\Debug\net9.0\refint\Loggd
 C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.API\obj\Debug\net9.0\Loggd.API.pdb
 C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.API\obj\Debug\net9.0\Loggd.API.genruntimeconfig.cache
 C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.API\obj\Debug\net9.0\ref\Loggd.API.dll
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.API\obj\Debug\net9.0\Loggd.API.sourcelink.json

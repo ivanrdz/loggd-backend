@@ -62,6 +62,7 @@ builder.Services.AddScoped<JwtService>();
 builder.Services.AddScoped<AuthService>();
 builder.Services.AddScoped<HabitService>();
 builder.Services.AddScoped<GoalService>();
+builder.Services.AddScoped<TaskService>();
 builder.Services.AddControllers()
     .AddJsonOptions(x =>
         x.JsonSerializerOptions.ReferenceHandler =

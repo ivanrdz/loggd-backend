@@ -13,3 +13,4 @@ C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\Logg
 C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\refint\Loggd.Application.dll
 C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\Loggd.Application.pdb
 C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\ref\Loggd.Application.dll
+C:\proyectos\mvpGatitoshop\loggd-backend\Loggd.Application\obj\Debug\net9.0\Loggd.Application.sourcelink.json
