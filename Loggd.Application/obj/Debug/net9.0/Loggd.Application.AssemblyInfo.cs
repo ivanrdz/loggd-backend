@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Loggd.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1258e4eec578b93c74bf0613b958c190ea2d793")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c40178b96f93f8c1c0d2cdc47da9009f8c17a3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Loggd.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Loggd.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

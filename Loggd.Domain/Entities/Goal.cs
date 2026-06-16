@@ -36,4 +36,4 @@ public class TaskItem
 
 public enum GoalCategory { Career, Health, Financial, Growth }
 public enum GoalStatus { Active, Completed, Paused, Abandoned }
-public enum TaskPriority { Low, Medium, High }
+public enum TaskPriority { Low, Medium, High, Urgent }
