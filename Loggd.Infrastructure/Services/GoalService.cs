@@ -44,6 +44,10 @@ public class GoalService(AppDbContext db)
             .FirstOrDefaultAsync(g => g.Id == goalId && g.UserId == userId)
             ?? throw new KeyNotFoundException("Meta no encontrada.");
 
+        // No permitir valores mayores al target
+        if (goal.TargetValue.HasValue)
+            value = Math.Min(value, goal.TargetValue.Value);
+
         goal.CurrentValue = value;
 
         if (goal.TargetValue.HasValue && value >= goal.TargetValue.Value)
